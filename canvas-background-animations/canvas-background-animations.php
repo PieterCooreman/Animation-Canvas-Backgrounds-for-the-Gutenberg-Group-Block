@@ -3,7 +3,7 @@
  * Plugin Name: Canvas Background Animations
  * Description: Add beautiful canvas background animations to Gutenberg Group blocks
  * Version: 1.0.0
- * Author: Your Name
+ * Author: Pieter Cooreman
  * Text Domain: canvas-bg-animations
  */
 
@@ -24,4 +24,5 @@ require_once CBA_PLUGIN_PATH . 'includes/class-canvas-animations.php';
 function cba_init() {
     new Canvas_Background_Animations();
 }
+
 add_action('plugins_loaded', 'cba_init');
