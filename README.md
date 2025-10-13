@@ -1,4 +1,4 @@
-**WP Plugin**
+**WordPress Plugin**
 
 Tested up to WP 683
 
