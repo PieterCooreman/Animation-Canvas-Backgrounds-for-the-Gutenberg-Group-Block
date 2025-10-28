@@ -4,7 +4,9 @@
  * Description: Add beautiful canvas background animations to Gutenberg Group blocks
  * Version: 1.0.0
  * Author: Pieter Cooreman
- * Text Domain: canvas-bg-animations
+ * License: GPLv2 or later
+ * License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ * Text Domain: canvas-background-animations
  */
 
 // Prevent direct access
