@@ -7,7 +7,8 @@ License:           GPLv2 or later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 Tags:              canvas, animations, javascript
 
-Canvas Background Animations adds beautiful canvas background animations to Gutenberg Group blocks
+Canvas Background Animations adds beautiful canvas background animations to Gutenberg Group blocks.
+Example: https://canvas.quickersite.com/
 
 == Description ==
 
